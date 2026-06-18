@@ -26,8 +26,8 @@ int main() {
     //x = abs(x);
     //x = log(x);
     //x = sin(x);
-    x = cos(x);
-    //x = tan(x);
+    //x = cos(x);
+    x = tan(x);
 
     printf("%f", x);
 
